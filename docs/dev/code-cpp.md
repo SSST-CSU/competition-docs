@@ -673,4 +673,3 @@ int main()
     BotzoneIO::output(myAction.cards.begin(), myAction.cards.end());
 }
 ```
-

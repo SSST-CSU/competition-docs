@@ -384,7 +384,7 @@ def searchCard(poker, objType, objMP, objSP): # 搜索自己有没有大过这�
     # countObjMP虽取首元素在ObjMP中的个数，但所有牌count应相同；countObjMP * len(singleObjMP) == lenObjMP
 
     newObjSP, lenObjSP = ordinalTransfer(objSP), len(objSP) # 只算点数的对方拥有的主牌; 对方拥有的主牌数
-    singleObjSP = list(set(newObjSP)) 
+    singleObjSP = list(set(newObjSP))
     singleObjSP.sort()
     countObjSP = 0
     if len(objSP) > 0: # 有可能没有从牌，从牌的可能性为单张或双张
