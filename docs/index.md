@@ -34,11 +34,11 @@
 * [Botzone 小组讨论区](https://www.botzone.org.cn/discuss/group-5cc64d7275e55951524c4105)
 * [Botzone 官方 Wiki](https://wiki.botzone.org.cn/)
 
-## 联系我们
+## 联系[我们](member.md)
 
-* 科协官方 QQ：[3231995116](https://user.qzone.qq.com/3231995116)
 * 竞赛官方 QQ 群：[134425073](https://shang.qq.com/wpa/qunwpa?idkey=d7ae4755243fa1023a74be8592c1e9044e725cc0792a35701691c7c03ddffa7e)
 * 竞赛官方邮箱：[gaming@uast.club](mailto:gaming@uast.club)
+* 科协官方 QQ：[3231995116](https://user.qzone.qq.com/3231995116)
 
 ## 版权与协议
 
