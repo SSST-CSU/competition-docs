@@ -1,0 +1,4 @@
+mkdocs==1.0.4
+mkdocs-material==4.2.0
+pygments==2.2.0
+twisted==19.2.0

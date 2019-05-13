@@ -1,0 +1,28 @@
+site_name: '参赛手册'
+site_description: '中南大学计算机学院第一届游戏对抗邀请赛参赛手册'
+site_author: '中南大学计算机学院大学生科学技术协会'
+site_url: 'https://gaming.jxpxxzj.cn/'
+copyright: 'Copyright &copy; 2019 中南大学计算机学院大学生科学技术协会, Licensed under CC BY-NC-SA 4.0'
+theme:
+  name: 'material'
+  language: 'zh'
+extra:
+  repo_icon: 'github'
+  manifest: 'manifest.webmanifest'
+repo_name: 'SSST-CSU/competition-docs'
+repo_url: 'https://github.com/SSST-CSU/competition-docs'
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+nav:
+  - '首页': 'index.md'
+  - '竞赛规则、赛制与奖励': 'competition.md'
+  - '注册与报名、比赛平台的基本使用': 'tutorial.md'
+  - '开发文档参考':
+    - '游戏规则': 'dev/rule.md'
+    - '游戏交互方式': 'dev/interaction.md'
+    - '参考代码 - C++ 版本': 'dev/code-cpp.md'
+    - '参考代码 - Python 版本': 'dev/code-py.md'
+  - '组委会与致谢': 'member.md'
