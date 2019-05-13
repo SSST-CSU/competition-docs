@@ -2,7 +2,7 @@ FROM python:3.7.3
 
 ADD . /app/
 WORKDIR /app
-RUN pip install -i http://mirrors.tencentyun.com/pypi/simple --no-cache-dir -r requirements.txt \
+RUN pip install -i http://mirrors.tencentyun.com/pypi/simple --no-cache-dir--trusted-host mirrors.tencentyun.com -r requirements.txt \
  && python -m mkdocs build
 
 EXPOSE 8080
