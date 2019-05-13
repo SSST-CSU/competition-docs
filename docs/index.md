@@ -1,8 +1,8 @@
 # 首页
 
 !!! 注意
-    如需了解本参赛手册的变更情况，可访问本参赛手册的代码仓库（页面右上角）。  
-    参赛手册内容可能会随着比赛进程而有所变动，在内容发生变动时会通知参赛选手。
+    如需了解本参赛手册的变更情况，可访问本参赛手册的 [GitHub 仓库](https://github.com/SSST-CSU/competition-docs/)（页面右上角）。  
+    参赛手册内容可能会随着竞赛进程而有所变动，在内容发生变动时会通知参赛选手。
 
 欢迎参加中南大学计算机学院第一届极客挑战邀请赛（游戏对抗邀请赛）。
 
@@ -18,13 +18,13 @@
 
 ## 我遇到了问题...
 
-* **下列的任何问题（包括但不限于）都可以发邮件至 [gaming@uast.club](mailto:gaming@uast.club)，以下不再重复提及**
+**任何问题（包括但不限于本列表内的）都可以发邮件至 [gaming@uast.club](mailto:gaming@uast.club)**
 
 * 关于竞赛规则、赛制等，请联系相关[组委会成员](member.md)（QQ 或邮件）
 * 关于本手册的问题，请使用 [GitHub Issue](https://github.com/SSST-CSU/competition-docs/issues)
 * 关于 Botzone 的细节，请访问 [Botzone 官方 Wiki](https://wiki.botzone.org.cn/)
 * 关于赛题，请前往 [Botzone 小组讨论区](https://www.botzone.org.cn/discuss/group-5cc64d7275e55951524c4105)，加 Tag 将有助于你的问题得到更快的解答
-* 关于 Botzone 网站、平台问题，请发邮件至 [botzone@vip.126.com](mailto:botzone@vip.126.com) 与网站维护小组联系，或在在网上给管理员[zhouhy](https://www.botzone.org.cn/account/53684e48a4428bf021bd2f16) 发私信
+* 关于 Botzone 网站、平台问题，请发邮件至 [botzone@vip.126.com](mailto:botzone@vip.126.com) 与 Botzone 维护小组联系，或在 Botzone 给管理员 [zhouhy](https://www.botzone.org.cn/account/53684e48a4428bf021bd2f16) 发私信
 
 ## 常用站点
 
@@ -36,9 +36,9 @@
 
 ## 联系我们
 
-* 科协官方 QQ：3231995116
-* 比赛群：
-* 比赛邮箱：[gaming@uast.club](mailto:gaming@uast.club)
+* 科协官方 QQ：[3231995116](https://user.qzone.qq.com/3231995116)
+* 竞赛官方 QQ 群：[134425073](https://shang.qq.com/wpa/qunwpa?idkey=d7ae4755243fa1023a74be8592c1e9044e725cc0792a35701691c7c03ddffa7e)
+* 竞赛官方邮箱：[gaming@uast.club](mailto:gaming@uast.club)
 
 ## 版权与协议
 
