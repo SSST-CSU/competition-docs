@@ -13,12 +13,12 @@
 ## 现在我应该？
 
 * 阅读 [竞赛规则、赛制与奖励](competition.md) 了解竞赛规则
-* 阅读 [注册与报名、比赛平台的基本使用](tutorial.md) 进行报名
+* 阅读 [注册与报名、Botzone 的基本使用](tutorial.md) 进行报名
 * 阅读 [开发文档参考](dev/rule.md) 编写自己的 Bot
 
 ## 我遇到了问题...
 
-**任何问题（包括但不限于本列表内的）都可以发邮件至 [gaming@uast.club](mailto:gaming@uast.club)**
+**任何问题（包括但不限于本列表内的）都可以发邮件至 [gaming@uast.club](mailto:gaming@uast.club)。**
 
 * 关于竞赛规则、赛制等，请联系相关[组委会成员](member.md)（QQ 或邮件）
 * 关于本手册的问题，请使用 [GitHub Issue](https://github.com/SSST-CSU/competition-docs/issues)
@@ -41,4 +41,4 @@
 
 ## 版权与协议
 
-本参赛手册全部文字在 [知识共享 署名-非商业用途-相同方式共享（CC BY-NC-SA）4.0](https://github.com/SSST-CSU/competition-docs/blob/master/LICENSE) 协议之条款下提供。
+本参赛手册全部文字和图片（除来自于 Botzone 的部分）在 [知识共享 署名-非商业用途-相同方式共享（CC BY-NC-SA）4.0](https://github.com/SSST-CSU/competition-docs/blob/master/LICENSE) 协议之条款下提供。

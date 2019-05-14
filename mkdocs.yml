@@ -19,7 +19,7 @@ markdown_extensions:
 nav:
   - '首页': 'index.md'
   - '竞赛规则、赛制与奖励': 'competition.md'
-  - '注册与报名、比赛平台的基本使用': 'tutorial.md'
+  - '注册与报名、Botzone 的基本使用': 'tutorial.md'
   - '开发文档参考':
     - '游戏规则': 'dev/rule.md'
     - '游戏交互方式': 'dev/interaction.md'

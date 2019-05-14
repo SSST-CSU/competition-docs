@@ -8,7 +8,7 @@
 
 | 姓名 | 分工 | 联系方式 |
 | ---- | ---- | ------- |
-| 肖子晋 | 竞赛整体管理 | [xiaozijin@uast.club](mailto:xiaozijin@uast.club) |
+| 肖子晋 | 竞赛整体管理，参赛手册 | [xiaozijin@uast.club](mailto:xiaozijin@uast.club) |
 | 黎梓晟 | 赛务，选手管理 | [lizisheng@uast.club](mailto:lizisheng@uast.club) |
 | 杨程 | 赛务协调 | [yangcheng@uast.club](mailto:yangcheng@uast.club) |
 | 张晗笑 | 外联，教师合作 | [zhanghanxiao@uast.club](mailto:zhanghanxiao@uast.club) |
