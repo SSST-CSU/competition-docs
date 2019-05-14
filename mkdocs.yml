@@ -8,7 +8,6 @@ theme:
   language: 'zh'
 extra:
   repo_icon: 'github'
-  manifest: 'manifest.webmanifest'
 repo_name: 'SSST-CSU/competition-docs'
 repo_url: 'https://github.com/SSST-CSU/competition-docs'
 markdown_extensions:
