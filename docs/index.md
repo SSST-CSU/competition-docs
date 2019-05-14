@@ -29,7 +29,6 @@
 ## 常用站点
 
 * [报名系统](https://gaming.jxpxxzj.cn:2825)
-* [Botzone 主页](https://botzone.org.cn)
 * [Botzone 小组页](https://www.botzone.org.cn/group/5cc64d7275e55951524c4105)
 * [Botzone 小组讨论区](https://www.botzone.org.cn/discuss/group-5cc64d7275e55951524c4105)
 * [Botzone 官方 Wiki](https://wiki.botzone.org.cn/)
